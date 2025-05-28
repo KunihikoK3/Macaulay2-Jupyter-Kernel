@@ -1,0 +1,17 @@
+LICENSE
+README.md
+setup.py
+m2_kernel/__init__.py
+m2_kernel/__main__.py
+m2_kernel/install.py
+m2_kernel/kernel.py
+m2_kernel/assets/m2-code/init.m2
+m2_kernel/assets/m2-code/test.txt
+m2_kernel/assets/m2-mode/macaulay2.js
+m2_kernel/assets/m2-mode/main.js
+m2_kernel/assets/m2-spec/kernel.js
+macaulay2_jupyter_kernel.egg-info/PKG-INFO
+macaulay2_jupyter_kernel.egg-info/SOURCES.txt
+macaulay2_jupyter_kernel.egg-info/dependency_links.txt
+macaulay2_jupyter_kernel.egg-info/requires.txt
+macaulay2_jupyter_kernel.egg-info/top_level.txt
